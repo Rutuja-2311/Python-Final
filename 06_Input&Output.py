@@ -10,3 +10,12 @@ print(f"My name is {name} and I am {age} years old.") #This will print "My name 
 
 age = int(input("hello what is your age?")) #This will prompt the user to enter their age and wait for input.
 print(age) #This will print the age entered by the user to the console.
+
+#Quetions
+#1. Accept numbers from a user
+num = int(input("Enter a number: "))
+print("You entered:", num)
+
+#2. Accept age from the user and print it
+age = int(input("Enter your age: "))
+print("Your age is:", age)
